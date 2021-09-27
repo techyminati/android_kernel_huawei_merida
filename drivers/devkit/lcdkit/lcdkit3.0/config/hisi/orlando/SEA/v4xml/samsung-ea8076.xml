@@ -1,0 +1,5 @@
+<hwlcd>
+	<PanelEntry>
+		<LcdVdd>"2, 11, 1250000"</LcdVdd>
+	</PanelEntry>
+</hwlcd>
